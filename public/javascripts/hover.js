@@ -55,5 +55,5 @@ window.onload = function() {
 	}
     }
     // add audio meter overlay to video divs 
-    $('#audioMeter').html('Audio meter!');
+    //$('#audioMeter').html('Audio meter!');
 };
