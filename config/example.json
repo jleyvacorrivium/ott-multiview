@@ -1,38 +1,38 @@
 {
   "row0": [
-    { "title": "Example 1",
-      "manifest": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+    { "title": "APP ROOM A- MediaPackage",
+      "manifest": "https://d3jre5o0dd4r2h.cloudfront.net/out/v1/ce8ea18f3d664421be66850d1a2a64de/index.m3u8",
       "type": "hls"
     },
-    { "title": "Example 2",
-      "manifest": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+    { "title": "APP ROOM B- MediaPackage",
+      "manifest": "https://d3g67focfvf10s.cloudfront.net/out/v1/31a94cb74f22419ab1882c5ad609bc39/index.m3u8",
       "type": "hls"
     },
-    { "title": "Example 3",
-      "manifest": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+    { "title": "APP ROOM C- MediaPackage",
+      "manifest": "https://dsx63ava8m8fx.cloudfront.net/out/v1/bfc0c53a6b4d40d3bd14d30736d5d473/index.m3u8",
       "type": "hls"
     },
-    { "title": "Example 4",
-      "manifest": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+    { "title": "ICAC-LARGE H'RING ROOM-INGEST",
+      "manifest": "https://d45phkm3vxofmb.data.mediastore.ap-southeast-2.amazonaws.com/icac/ingest-preview/pipe0/index.m3u8",
       "type": "hls"
     }
  ],
   "row1": [
-    { "title": "Example 5",
-      "manifest": "https://www.bok.net/dash/tears_of_steel/cleartext/stream.mpd",
+    { "title": "No Signal",
+      "manifest": "",
       "type": "dash"
     },
-    { "title": "Example 6",
-      "manifest": "https://www.bok.net/dash/tears_of_steel/cleartext/stream.mpd",
+    { "title": "No Signal",
+      "manifest": "",
       "type": "dash"
     },
-    { "title": "Example 7",
-      "manifest": "https://www.bok.net/dash/tears_of_steel/cleartext/stream.mpd",
+    { "title": "No Signal",
+      "manifest": "",
       "type": "dash"
     },
-    { "title": "Example 8",
-      "manifest": "https://www.bok.net/dash/tears_of_steel/cleartext/stream.mpd",
-      "type": "dash"
+    { "title": "ICAC-LARGE H'RING ROOM-OUTPUT",
+      "manifest": "https://d185w4xzkadcd4.cloudfront.net/out/v1/2d2a3a4563c84af4b58ca04dc6a4d239/index.m3u8",
+      "type": "hls"
     }
   ]
 }
