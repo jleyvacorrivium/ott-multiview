@@ -25,7 +25,7 @@ router.get('/', function(req, res) {
       var confobj = JSON.parse(fs.readFileSync(path.join(__dirname, confpath), 'utf8'));
     }
   }
-  res.render('index', { title: 'Eyevinn Technology OTT Multiview', conf: JSON.stringify(confobj) });
+  res.render('index', { title: 'Corrivium OTT Multiview', conf: JSON.stringify(confobj) });
 });
 
 module.exports = router;
