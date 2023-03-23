@@ -18,20 +18,20 @@
     }
  ],
   "row1": [
-    { "title": "No Signal",
-      "manifest": "",
-      "type": "dash"
-    },
-    { "title": "No Signal",
-      "manifest": "",
-      "type": "dash"
-    },
-    { "title": "No Signal",
-      "manifest": "",
-      "type": "dash"
-    },
     { "title": "ICAC-LARGE H'RING ROOM-OUTPUT",
       "manifest": "https://d185w4xzkadcd4.cloudfront.net/out/v1/2d2a3a4563c84af4b58ca04dc6a4d239/index.m3u8",
+      "type": "hls"
+    },
+    { "title": "No Signal",
+      "manifest": "",
+      "type": "dash"
+    },
+    { "title": "No Signal",
+      "manifest": "",
+      "type": "dash"
+    },
+    { "title": "No Signal",
+      "manifest": "",
       "type": "hls"
     }
   ]
