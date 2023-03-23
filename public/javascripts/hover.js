@@ -35,7 +35,6 @@ window.onload = function() {
         {	//Statistics for HLS video not yet available
             if (shakaPlayers[videoId] === undefined) {
                 statsDiv.html('<p>No data available</p>');
-                $('#audioMeter').html('Audio meter!');
             } else {
 
 	        stats = shakaPlayers[videoId].getStats();
@@ -56,5 +55,5 @@ window.onload = function() {
 	}
     }
     // add audio meter overlay to video divs 
-    //$('#audioMeter').html('Audio meter!');
+    $('#audioMeter').html('Audio meter!');
 };
